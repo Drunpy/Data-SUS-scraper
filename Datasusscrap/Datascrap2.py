@@ -49,7 +49,3 @@ for i in seletor_anos.options:
         txt.write(copiador.text)
 
     print('Compilação do ano {} ... OK'.format(ano))
-    
-    
-
-    
